@@ -13,3 +13,6 @@ ix <- which(dx^2 + dy^2 <= 1 )
 points(dx[ix], dy [ix], col='green', pch=20)
 points(dx[-ix], dy [-ix], 'orange', pch=20)
 4*length(ix)/n
+
+
+# Jacob was here
